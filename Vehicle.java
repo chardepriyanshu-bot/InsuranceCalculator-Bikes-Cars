@@ -3,11 +3,11 @@ package lab.com;
 import java.util.Scanner;
 
 class vehicleShowroom{
-	String vehicleNo;
-	String model;
-	String type;
-	double price;
-	double insuranceAmount;
+	private String vehicleNo;
+	private String model;
+	private String type;
+	private double price;
+	private double insuranceAmount;
 	final static double CARS=8.0;
 	final static double BIKES=5.0;
 	
